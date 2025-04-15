@@ -1,4 +1,6 @@
 ## Hi there 👋
+😲 Thank you for visiting my profile! <br>
+🌱 For now, my repositories are used to document my learning.
 
 <!--
 **ChocolateSilk/ChocolateSilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
