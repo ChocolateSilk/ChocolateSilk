@@ -1,6 +1,8 @@
-## Hi there 👋
-😲 Thank you for visiting my profile! <br>
-🌱 For now, my repositories are used to document my learning.
+## 👋 Welcome welcome
+
+- Exploring interesting stuff along the way...
+- Tuzki needs to be revived
+- 兔斯基能让我离大佬更进一步吗？
 
 <!--
 **ChocolateSilk/ChocolateSilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
